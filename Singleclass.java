@@ -1,5 +1,5 @@
 //program that uses circle class
-//call this file ska1.java
+//call this file Singleclass.java
  class circle{
    double x,y; //co-ordinate of center
    double r;  //radius
@@ -15,7 +15,7 @@
    }
  }
     
-      class Ska1 {
+      class Singleclass {
 	public static void main(String[] args) {
 		circle c = new circle();
 		c.x=0;
