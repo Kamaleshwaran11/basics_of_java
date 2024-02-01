@@ -1,5 +1,5 @@
 import java.util.*;
-class sk
+class scanners
 {
 public static void main(String args[])
 {
